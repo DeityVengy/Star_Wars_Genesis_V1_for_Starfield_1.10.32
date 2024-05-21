@@ -1,6 +1,6 @@
 This is a guide on installing my Star Wars conversion modlist for Starfield, as seen on YouTube and featured on IGN and other sources. Just beware this is still a work in progress and this GitHub page will be updated periodically. 
 
-https://www.youtube.com/watch?v=nydaWXoidoo
+[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=nydaWXoidoo)
 
 **Requirements:**
 1. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul and uninstall the Reshade to alleviate it.
