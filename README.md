@@ -68,45 +68,45 @@ This is a guide on installing my Star Wars conversion modlist for Starfield, as 
 42. Aurebesh - Star Wars Conversion
 43. Star Wars Astromech Mini Bots
 44. Imperial Credit MAST Tower Logo Replacer
-45. Star Wars Spotchka from Mandalorian (Bogs Grog Retexture)
-46. Star Wars Ground Crew Rebel Pilot
-47. Star Wars Empire Longsleeve Texture
-48. Star Wars Constellation Commandos WIP
-49. Star Wars Prison Scrubs Texture
-50. Freestar Rebels
-51. UC Empire
-52. AT-ST Enemies
-53. Star Wars Rebel Leaders
-54. Shadow Collective - Mandalorian Crimson Fleet Conversion
-55. Star Wars - Purge Trooper (Varuun)
-56. Hugin's Mandalorian Ecliptic Bounty Hunter Suit
-57. Crimson Fleet Arsenal - Star Wars Weapon Replacer
-58. Outer Rim Artillery - Star Wars Weapon Replacer
-59. Arms of Mandalore - Star Wars Weapon Replacer
-60. Rebel Armaments - Star Wars Weapon Replacer
-61. Imperial Armaments -  Star Wars Weapon Replacer
-62. Star Wars Melee Weapon Replacer
-63. BlasTech IB-94 - Rattler
-64. Mandalorian Amban Rifle - Lawgiver
-65. Sounds From a Galaxy Far Away
-66. Star Wars Bounty Hunter Jetpack Sounds
-67. Amban Phase Rifle (Din Djarin's Rifle) Sounds for Lawgiver
-68. IB-94 Blaster (Din Djarin's Pistol) Sounds for Rattler Pistol
-69. Galactic Stormtrooper Voice Lines for UC Security Female
-70. Galactic Stormtrooper Voice Lines for UC Security Male
-71. Starfield Boarding Alarm Sound Replacement Pack (Death Star)
-72. Star Wars Concussion Missile Sound Replacement for Atlatl 270 and 280
-73. Star Wars Tie Fighter Cannon Sound Replacement for PB-300 and PBO-300 Cannons
-74. Star Wars A Wing Sound Replacement for KE-20 AND KE-31 Cannons
-75. AMUN Engines STAR WARS
-76. NOVA Engines STAR WARS
-77. Star Wars Mos Eisley Cantina Music Replacer
-78. The Mandalorian Theme Main Menu
-79. Weapon Swap Stuttering Fix
-80. Sprint Stuttering Fix
-81. Legendary Modifications
-82. Stop Flailing While Falling
-83. Sprint Headtracking Bug Fix
+45. Star Wars Spotchka from Mandalorian (Bogs Grog Green Retexture) (v1.1) https://www.nexusmods.com/starfield/mods/5162?tab=files
+46. Star Wars Ground Crew Rebel Pilot (v1.0) https://www.nexusmods.com/starfield/mods/6078?tab=files
+47. Star Wars Empire Longsleeve Texture (v1) https://www.nexusmods.com/starfield/mods/6348?tab=files
+48. Star Wars Constellation Commandos WIP (v0.4) https://www.nexusmods.com/starfield/mods/7452?tab=files
+49. Star Wars Prison Scrubs Texture (v1.3) https://www.nexusmods.com/starfield/mods/6383?tab=files
+50. Freestar Rebels (v1.2.3) https://www.nexusmods.com/starfield/mods/7410?tab=files
+51. UC Empire (v1.2.3) https://www.nexusmods.com/starfield/mods/7223?tab=files
+52. AT-ST Enemies (v1.02) https://www.nexusmods.com/starfield/mods/8022?tab=files
+53. Star Wars Rebel Leaders (v1.0 May 3) https://www.nexusmods.com/starfield/mods/9125?tab=files
+54. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.0 Dec 6 Bottom) https://www.nexusmods.com/starfield/mods/7506?tab=files
+55. Star Wars - Purge Trooper (Varuun) (v1.1) https://www.nexusmods.com/starfield/mods/6823?tab=files
+56. Hugin's Mandalorian Ecliptic Bounty Hunter Suit (v1.0) https://www.nexusmods.com/starfield/mods/5345?tab=files
+57. Crimson Fleet Arsenal - Star Wars Weapon Replacer (v1.2 20th March) https://www.nexusmods.com/starfield/mods/8744?tab=files
+58. Outer Rim Artillery - Star Wars Weapon Replacer (v1.2 April 3) https://www.nexusmods.com/starfield/mods/8903?tab=files
+59. Arms of Mandalore - Star Wars Weapon Replacer (v1.2 April 3) https://www.nexusmods.com/starfield/mods/8853?tab=files
+60. Rebel Armaments - Star Wars Weapon Replacer (v1.4 April 3) https://www.nexusmods.com/starfield/mods/8696?tab=files
+61. Imperial Armaments -  Star Wars Weapon Replacer (v1.2 April 3) https://www.nexusmods.com/starfield/mods/8775?tab=files
+62. Star Wars Melee Weapon Replacer All in One(v1.0) https://www.nexusmods.com/starfield/mods/9016?tab=files
+63. BlasTech IB-94 - Rattler (v1.01) https://www.nexusmods.com/starfield/mods/5025?tab=files
+64. Mandalorian Amban Rifle - Lawgiver (v1.3) https://www.nexusmods.com/starfield/mods/5238?tab=files
+65. Sounds From a Galaxy Far Away (v1.1.0) https://www.nexusmods.com/starfield/mods/3169?tab=files
+66. Star Wars Bounty Hunter Jetpack Sounds (v1.5) https://www.nexusmods.com/starfield/mods/2154?tab=files
+67. Amban Phase Rifle (Din Djarin's Rifle) Sounds for Lawgiver (v1.0A) https://www.nexusmods.com/starfield/mods/4181?tab=files
+68. IB-94 Blaster (Din Djarin's Pistol) Sounds for Rattler Pistol - Author's Choice (v1.0A) https://www.nexusmods.com/starfield/mods/5090?tab=files
+69. Galactic Stormtrooper Voice Lines for UC Security Female https://www.nexusmods.com/starfield/mods/2176?tab=files
+70. Galactic Stormtrooper Voice Lines for UC Security Male https://www.nexusmods.com/starfield/mods/2176?tab=files
+71. Starfield Boarding Alarm Sound Replacement Pack (Death Star) (v1.0) https://www.nexusmods.com/starfield/mods/3549?tab=files
+72. Star Wars Concussion Missile Sound Replacement for Atlatl 270 and 280 (v1.0) https://www.nexusmods.com/starfield/mods/3002?tab=files
+73. Star Wars Tie Fighter Cannon Sound Replacement for PB-300 and PBO-300 Cannons (v1.0) https://www.nexusmods.com/starfield/mods/2262?tab=files
+74. Star Wars A Wing Sound Replacement for KE-20 AND KE-31 Cannons (v1.0) https://www.nexusmods.com/starfield/mods/2581?tab=files
+75. AMUN Engines STAR WARS (v1.0) https://www.nexusmods.com/starfield/mods/8522?tab=files
+76. NOVA Engines STAR WARS (v1.0) https://www.nexusmods.com/starfield/mods/8526?tab=files
+77. Star Wars Mos Eisley Cantina Music Replacer (v1.0) https://www.nexusmods.com/starfield/mods/5390?tab=files
+78. The Mandalorian Theme Main Menu (v1.1) https://www.nexusmods.com/starfield/mods/2989?tab=files
+79. Weapon Swap Stuttering Fix (v1.1.3) https://www.nexusmods.com/starfield/mods/2830?tab=files
+80. Sprint Stuttering Fix (v1.05) https://www.nexusmods.com/starfield/mods/884?tab=files
+81. Legendary Modifications (v1.02) https://www.nexusmods.com/starfield/mods/1379?tab=files
+82. Stop Flailing While Falling (v1.0) https://www.nexusmods.com/starfield/mods/6090?tab=files
+83. Sprint Headtracking Bug Fix (v1.1.1) https://www.nexusmods.com/starfield/mods/2370?tab=files
 
 **Plugins Load Order:**<br />
 ![image](https://github.com/DeityVengy/Ultimate-Star-Wars-Conversion-Modlist-for-Starfield/assets/170469610/ff70ea3c-804a-4953-85de-06073d97df00)
