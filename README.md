@@ -117,13 +117,13 @@ This is a guide on installing my Star Wars conversion modlist for Starfield, as 
    
 **F.A.Q.**
 1. How do I get the Mandalorian Armor?<br />
-   It replaces the Mantis Armor. You can spawn the armor in with these console commands:
+   It replaces the Mantis Armor. You can spawn the armor in with these console commands: <br />
    player.additem 00226299<br />
    player.additem 0016640A<br />
    player.additem 0016640B<br />
-2. How do I make the damage more realistic?<br />
+3. How do I make the damage more realistic?<br />
    Everyone has different preferences on this so you can get whichever difficulty/damage mod you think you would like.
-3. I see the Star Wars themed weapons but they don't fire lasers. How do I fix this?<br />
+4. I see the Star Wars themed weapons but they don't fire lasers. How do I fix this?<br />
    Make sure all the Weapon Replacer mods are BELOW the Armor mods and overwrite them. Do the same for the esm files.
-4. I see "Lookup failed!" on some weapons and armor. How do I fix?<br />
+5. I see "Lookup failed!" on some weapons and armor. How do I fix?<br />
    If you see this on a select few weapons, then it's normal and part of the WIP nature of this modlist. If ALL weapons are like that then it could be anything tbh. Game version mismatch, save issue, mod outdated, etc.
