@@ -114,7 +114,6 @@ This is a guide on installing my Star Wars conversion modlist for Starfield, as 
 **Starfield Custom.ini File** <br />
 https://drive.google.com/drive/u/1/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i <br />
 
-
 **Experimental Mods:**<br />
 1. Starfield Ultimate Graphics with SSRTGI (Reshade): https://www.nexusmods.com/starfield/mods/1565?tab=files<br />
    Idk much about reshade but this made my screen weird. If you have same issue, check all the Depth Buffer boxes in the Reshade Menu. You might still see the same issue in menus
@@ -131,3 +130,5 @@ https://drive.google.com/drive/u/1/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i <br
    Make sure all the Weapon Replacer mods are BELOW the Armor mods and overwrite them. Do the same for the esm files.
 5. I see "Lookup failed!" on some weapons and armor. How do I fix?<br />
    If you see this on a select few weapons, then it's normal and part of the WIP nature of this modlist. If ALL weapons are like that then it could be anything tbh. Game version mismatch, save issue, mod outdated, etc.
+6. X Mod isn't working. What do i do?
+   Make sure you downloaded the correct version I listed. Make sure you followed my load order. Make sure your Starfield version is V1.10.32
