@@ -1,4 +1,4 @@
-This is a guide on installing my Star Wars conversion modlist for Starfield, as seen on YouTube and featured on IGN and other sources. Just beware this is still a work in progress and this GitHub page will be updated periodically. 
+This is a guide on installing my Star Wars conversion modlist for Starfield, as seen on YouTube and featured on IGN. Just beware this is still a work in progress and this GitHub page will be updated periodically. 
 
 [![YouTube](http://i.ytimg.com/vi/nydaWXoidoo/hqdefault.jpg)](https://www.youtube.com/watch?v=nydaWXoidoo)
 
@@ -31,43 +31,43 @@ This is a guide on installing my Star Wars conversion modlist for Starfield, as 
 5. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
 6. BAKA Hold to Sprint (v1.1.0) https://www.nexusmods.com/starfield/mods/8915?tab=files
 7. 60 FPS - Smooth UI (v3.8) https://www.nexusmods.com/starfield/mods/350?tab=files
-8. StarUI Inventory
-9. Less Intrusive HUD and Better Crosshair
-10. Slightly Better Weapon Icons (SW Edition)
-11. Pause Menu Replacer
-12. Star Wars Loading Screens (Custom Mod by me)
-13. Galactic Empire Era Name Replacement
-14. Smooth Ship Reticle (120fps Smooth UI)
-15. Enhanced Player Healthbar
-16. Angry Walk Animation
-17. 3rd Person 1-handed Pistol Animations
-18. Unified Camera - Third Person Tweaks (Option 3 Melee)
-19. Quick Lowered Weapons
-20. Immersive Mantle Animation Speed
-21. Starfield HD Overhaul Part 1-15
-22. Starfield HD Overhaul Textures Patch
-23. Starfield HD Overhaul ESM
-24. EXE - Effect Textures Enhanced
-25. Neutral LUTs - No Color Filters
-26. Bullet Hole Impact VERSION 3.0
-27. Star Wars New Atlantis Star Destroyer
-28. Star Wars Akila Faction Hologram Statue's
-29. New Atlantis Death Star Hologram
-30. BD-1 Vasco
-31. Coruscant (WIP)
-32. Realistic Stars
-33. Enhanced Starfield Clouds
-34. Star Wars Grenades
-35. Star Wars Data Pads
-36. Star Wars Aliens
-37. Star Wars Contraband Replacer
-38. Star Wars Credits (Only Credits)
-39. Star Wars Binoculars
-40. Gonk Trashbins
-41. Star Wars Holocron Snow Globes
-42. Aurebesh - Star Wars Conversion
-43. Star Wars Astromech Mini Bots
-44. Imperial Credit MAST Tower Logo Replacer
+8. StarUI Inventory (v2.3.2) https://www.nexusmods.com/starfield/mods/773?tab=files
+9. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
+10. Slightly Better Weapon Icons (SW Edition) (vIV) https://www.nexusmods.com/starfield/mods/4798?tab=files <br /> Replace files with my custom ones: https://drive.google.com/drive/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i?usp=sharing
+11. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
+12. Star Wars Loading Screens (Custom mod by me) https://drive.google.com/drive/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i?usp=sharing
+13. Galactic Empire Era Name Replacement (v0.2) https://www.nexusmods.com/starfield/mods/2307?tab=files
+14. Smooth Ship Reticle (120fps Smooth UI) (v1.3) https://www.nexusmods.com/starfield/mods/270?tab=files
+15. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
+16. Angry Walk Animation (v1.0) https://www.nexusmods.com/starfield/mods/3434?tab=files
+17. 3rd Person 1-handed Pistol Animations (v2.0) https://www.nexusmods.com/starfield/mods/5253?tab=files
+18. Unified Camera - Third Person Tweaks (Option 3 Melee NO ZOOM) (v1.0) https://www.nexusmods.com/starfield/mods/3211?tab=files
+19. Quick Lowered Weapons (v1.7) https://www.nexusmods.com/starfield/mods/6338?tab=files
+20. Immersive Mantle Animation Speed 50 - No Delay (v1.0) https://www.nexusmods.com/starfield/mods/1543?tab=files
+21. Starfield HD Overhaul Part 1-15 https://www.nexusmods.com/starfield/mods/5124?tab=files
+22. Starfield HD Overhaul Textures Patch https://www.nexusmods.com/starfield/mods/5124?tab=files
+23. Starfield HD Overhaul ESM https://www.nexusmods.com/starfield/mods/5124?tab=files
+24. EXE - Effect Textures Enhanced (v0.7) https://www.nexusmods.com/starfield/mods/340?tab=files
+25. Neutral LUTs - No Color Filters (v1.4) https://www.nexusmods.com/starfield/mods/323?tab=files
+26. Bullet Hole Impact VERSION (v3.0) https://www.nexusmods.com/starfield/mods/3026?tab=files
+27. Star Wars New Atlantis Star Destroyer (v0.1) https://www.nexusmods.com/starfield/mods/6820?tab=files
+28. Star Wars Akila Faction Hologram Statue's (Dark Blue) (v1.0) https://www.nexusmods.com/starfield/mods/6467?tab=files
+29. New Atlantis Death Star Hologram (v0.3) https://www.nexusmods.com/starfield/mods/6479?tab=files
+30. BD-1 Vasco (v1.0) https://www.nexusmods.com/starfield/mods/8235?tab=files
+31. Coruscant (WIP) (v1.0) https://www.nexusmods.com/starfield/mods/3461?tab=files
+32. Realistic Stars 4k (v1.2) https://www.nexusmods.com/starfield/mods/2151?tab=files
+33. Enhanced Starfield Clouds - Full Res (v1.0) https://www.nexusmods.com/starfield/mods/3873?tab=files
+34. Star Wars Grenades (v0.1) https://www.nexusmods.com/starfield/mods/6774?tab=files
+35. Star Wars Data Pads (v0.2) https://www.nexusmods.com/starfield/mods/6844?tab=files
+36. Star Wars Aliens (v1.01) https://www.nexusmods.com/starfield/mods/8518?tab=files
+37. Star Wars Contraband Replacer (v0.2) https://www.nexusmods.com/starfield/mods/7855?tab=files
+38. Star Wars Credits (Only Credits) (vOnlyMoney) https://www.nexusmods.com/starfield/mods/5023?tab=files
+39. Star Wars Binoculars (v0.3) https://www.nexusmods.com/starfield/mods/6843?tab=files
+40. Gonk Trashbins (v0.1) https://www.nexusmods.com/starfield/mods/5523?tab=files
+41. Star Wars Holocron Snow Globes (v0.1) https://www.nexusmods.com/starfield/mods/6618?tab=files
+42. Aurebesh - Star Wars Conversion (v1.08) https://www.nexusmods.com/starfield/mods/6032?tab=files
+43. Star Wars Astromech Mini Bots (v0.8) https://www.nexusmods.com/starfield/mods/5056?tab=files
+44. Imperial Credit MAST Tower Logo Replacer (v1) https://www.nexusmods.com/starfield/mods/4816?tab=files
 45. Star Wars Spotchka from Mandalorian (Bogs Grog Green Retexture) (v1.1) https://www.nexusmods.com/starfield/mods/5162?tab=files
 46. Star Wars Ground Crew Rebel Pilot (v1.0) https://www.nexusmods.com/starfield/mods/6078?tab=files
 47. Star Wars Empire Longsleeve Texture (v1) https://www.nexusmods.com/starfield/mods/6348?tab=files
@@ -110,6 +110,10 @@ This is a guide on installing my Star Wars conversion modlist for Starfield, as 
 
 **Plugins Load Order:**<br />
 ![image](https://github.com/DeityVengy/Ultimate-Star-Wars-Conversion-Modlist-for-Starfield/assets/170469610/ff70ea3c-804a-4953-85de-06073d97df00)
+
+**Starfield Custom.ini File** <br />
+https://drive.google.com/drive/u/1/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i <br />
+
 
 **Experimental Mods:**<br />
 1. Starfield Ultimate Graphics with SSRTGI (Reshade): https://www.nexusmods.com/starfield/mods/1565?tab=files<br />
