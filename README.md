@@ -1,3 +1,6 @@
+# IMPORTANT
+This modlist has been updated immensely. You can find it here: https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/tree/main <br />
+This page is no longer supported.
 This is a guide on installing my Star Wars conversion modlist for Starfield, as seen on YouTube and featured on IGN. Just beware this is still a work in progress and this GitHub page will be updated periodically. 
 
 [![YouTube](http://i.ytimg.com/vi/nydaWXoidoo/hqdefault.jpg)](https://www.youtube.com/watch?v=nydaWXoidoo)
