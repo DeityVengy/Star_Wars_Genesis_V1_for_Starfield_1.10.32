@@ -1,3 +1,57 @@
+
+# THIS IS OUTDATED. V5 is OUT! https://github.com/DeityVengy/Star-Wars-Genesis-V5-Wabbajack
+# THIS IS OUTDATED. V5 is OUT! https://github.com/DeityVengy/Star-Wars-Genesis-V5-Wabbajack
+# THIS IS OUTDATED. V5 is OUT! https://github.com/DeityVengy/Star-Wars-Genesis-V5-Wabbajack
+# THIS IS OUTDATED. V5 is OUT! https://github.com/DeityVengy/Star-Wars-Genesis-V5-Wabbajack
+# THIS IS OUTDATED. V5 is OUT! https://github.com/DeityVengy/Star-Wars-Genesis-V5-Wabbajack
+# THIS IS OUTDATED. V5 is OUT! https://github.com/DeityVengy/Star-Wars-Genesis-V5-Wabbajack
+# THIS IS OUTDATED. V5 is OUT! https://github.com/DeityVengy/Star-Wars-Genesis-V5-Wabbajack
+# THIS IS OUTDATED. V5 is OUT! https://github.com/DeityVengy/Star-Wars-Genesis-V5-Wabbajack
+# THIS IS OUTDATED. V5 is OUT! https://github.com/DeityVengy/Star-Wars-Genesis-V5-Wabbajack
+# THIS IS OUTDATED. V5 is OUT! https://github.com/DeityVengy/Star-Wars-Genesis-V5-Wabbajack
+
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
 # IMPORTANT
 This modlist has been updated immensely. You can find it here: https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/tree/main <br />
 This page is no longer supported. <br />
